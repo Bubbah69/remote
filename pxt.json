@@ -1,5 +1,5 @@
 {
-    "name": "Maqueen Controller",
+    "name": "Radio sender",
     "description": "",
     "dependencies": {
         "core": "*",
