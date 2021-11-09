@@ -1,5 +1,5 @@
 {
-    "name": "Remote",
+    "name": "Maqueen Controller",
     "description": "",
     "dependencies": {
         "core": "*",
